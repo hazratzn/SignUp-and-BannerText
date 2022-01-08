@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(../img/jericho-cervantes-7F6OTqgYhIo-unsplash.jpg)
+}
+.headdiv{
+    background-color: rgb(62, 63, 70);
+    height: 70px;
+}
+.head{
+    padding-top: 15px;
+}
+.journal{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Permanent Marker', cursive;
+}
+.register{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'Arial', sans-serif;
+}
+.main{
+    background-color: white;
+    height: 511px;
+    width: 50%;
+    display: flex;
+    margin-left: 350px;
+    margin-top: 75px;
+}
+.image img{
+    width: 82.7%;
+}
+.registerh{
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    color: rgb(124, 124, 124);
+}
+.registerhdiv{
+    margin-right: 170px;
+    margin-top: 50px;
+}
+.username{
+    border: none;
+    border-bottom: 2px solid rgb(124, 124, 124);
+    width: 75%;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.email{
+    border: none;
+    border-bottom: 2px solid rgb(124, 124, 124);
+    width: 75%;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.password{
+    border: none;
+    border-bottom: 2px solid rgb(124, 124, 124);
+    width: 75%;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.cpassword{
+    border: none;
+    border-bottom: 2px solid rgb(124, 124, 124);
+    width: 75%;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.signup{
+    border-radius: 12px;
+    margin-top: 40px;
+    height: 40px;
+    width: 40%;
+    font-size: 20px;
+    color: white;
+    background-color: #FBAB7E;
+    background: #F0C27B;
+    background: -webkit-linear-gradient(to right, #4B1248, #F0C27B);
+    background: linear-gradient(to right, #4B1248, #F0C27B); 
+
+    cursor: pointer;
+    border: none;
+}
+.already{
+    font-family: 'Arial', sans-serif;
+    color: rgb(124, 124, 124);
+}
+.alreadydiv{
+    margin-top: 20px;
+}
+.have{
+    color: rgb(0, 115, 247);
+    text-decoration: none;
+    font-family: 'Arial', sans-serif;
+}
